@@ -9,6 +9,7 @@ function Counter() {
     //1-donnée (state, variable, ...)
     const [count, setCount] = useState(0);
 
+
     //2- operations (différentes fonctions lié au composant)
 
 
